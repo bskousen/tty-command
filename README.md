@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/piotrmurach/tty-command)
+
 <div align="center">
   <a href="https://ttytoolkit.org"><img width="130" src="https://github.com/piotrmurach/tty/blob/master/images/tty.png" alt="TTY Toolkit logo"/></a>
 </div>
